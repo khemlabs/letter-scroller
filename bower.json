@@ -5,7 +5,7 @@
   "authors": [
     "Pablo Gambetta <gambeita@gmail.com>"
   ],
-  "description": "Scroll leter by letter",
+  "description": "A lightweight, easy to use Javascript words letter by letter injector",
   "keywords": [
     "scroller",
     "scroll",
