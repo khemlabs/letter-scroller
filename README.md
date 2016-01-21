@@ -18,7 +18,8 @@ bower install letter-scroller --save
 Include script
 
 ```
-<script src="bower_components/dist/letter-scroller.min.js"></script>
+<script src="./bower_components/jquery/dist/jquery.min.js"></script>
+<script src="./bower_components/dist/letter-scroller.min.js"></script>
 ```
 
 Use it
