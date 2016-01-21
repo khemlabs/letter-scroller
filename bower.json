@@ -1,0 +1,23 @@
+{
+  "name": "letter-scroller",
+  "main": "dist/letter-scroller.min.js",
+  "version": "0.0.1",
+  "authors": [
+    "Pablo Gambetta <gambeita@gmail.com>"
+  ],
+  "description": "Scroll leter by letter",
+  "keywords": [
+    "scroller",
+    "scroll",
+    "by",
+    "letter",
+    "delayed",
+    "by",
+    "word"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/khemlabs/letter-scroller",
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
